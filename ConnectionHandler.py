@@ -27,5 +27,3 @@ class ConnectionHandler:
 
 
 n = ConnectionHandler()
-print(n.send("hello"))
-print(n.send("working"))
